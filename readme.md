@@ -15,7 +15,7 @@ Console.WriteLine(rdic["roni"]); // genius
 ```
 
 ```cs
-rdic["song minsoo"] = "genius";
+rdic["han minsoo"] = "genius";
 rdic["park min-soo"] = "real genius";
 
 // a dash(`-`) makes him more geniusrousous
