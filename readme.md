@@ -2,7 +2,7 @@ RiniDictionary
 ====
 
 No more `KeyNotFoundException`.<br>
-The only dictionary which knows what you wants.
+The only dictionary which knows what you want.
 
 ```cs
 
